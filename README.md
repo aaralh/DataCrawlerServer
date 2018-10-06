@@ -1,5 +1,6 @@
 # datacrawlerserver
-Two nodejs servers. First one for crawling data to database from certain API and second one serving it for client via REST.
+Data crawler microservices built to save and serve data from CoinMarketCap public API.
+First one for crawling data to database from certain API and second one serving it for client via REST.
 
 ## How to use
 Both data crawler and the REST API are own servers so you can start the crawler without having the REST running and vice versa.
